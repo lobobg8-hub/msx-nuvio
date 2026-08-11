@@ -1,6 +1,6 @@
 {
-  "nome": "Núvio MSX",
-  "versão": "1.0.0",
-  "parâmetro": "conteúdo:https://lobobg8-hub.github.io/msx-nuvio/data/content.json",
-  "bem-vindo": "nenhum"
+  "name": "Nuvio MSX",
+  "version": "1.0.0",
+  "parameter": "content:https://lobobg8-hub.github.io/msx-nuvio/data/content.json",
+  "welcome": "none"
 }
