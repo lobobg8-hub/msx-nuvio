@@ -1,13 +1,6 @@
 {
-  "tipo": "lista",
-  "manchete": "Núvio",
-  "executar": {
-    "ação": "link:janela:https://web.nuvioapp.space"
-  },
-  "itens": [
-    {
-      "título": "Abrir Nuvio",
-      "ação": "link:janela:https://web.nuvioapp.space"
-    }
-  ]
+  "nome": "Núvio MSX",
+  "versão": "1.0.0",
+  "parâmetro": "conteúdo:https://lobobg8-hub.github.io/msx-nuvio/data/content.json",
+  "bem-vindo": "nenhum"
 }
