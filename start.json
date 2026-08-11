@@ -1,6 +1,13 @@
 {
-  "name": "Nuvio MSX",
-  "version": "1.0.0",
-  "parameter": "content:https://lobobg8-hub.github.io/msx-nuvio/data/content.json",
-  "welcome": "none"
+  "type": "list",
+  "headline": "Nuvio",
+  "execute": {
+    "action": "link:window:https://web.nuvioapp.space"
+  },
+  "items": [
+    {
+      "title": "Abrir Nuvio",
+      "action": "link:window:https://web.nuvioapp.space"
+    }
+  ]
 }
