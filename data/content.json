@@ -1,0 +1,13 @@
+{
+  "tipo": "lista",
+  "manchete": "Núvio",
+  "executar": {
+    "ação": "link:janela:https://web.nuvioapp.space"
+  },
+  "itens": [
+    {
+      "título": "Abrir Nuvio",
+      "ação": "link:janela:https://web.nuvioapp.space"
+    }
+  ]
+}
